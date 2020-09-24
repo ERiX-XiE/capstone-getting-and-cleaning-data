@@ -23,7 +23,7 @@ minor changes to the original names of variables (not knowing if i should)
 change 1: substitute _ for -
 change 2: substitute [Bb]ody for [Bb]ody[Bb]ody occurrences because it seems repetitive
 
-######### revised_variable_names(): #########
+######### descriptive_act_names(): #########
 convert a list of "activities values" from integers 1~6 to names in character, such as "WALKING", according to the activity_labels.txt file
 
 
