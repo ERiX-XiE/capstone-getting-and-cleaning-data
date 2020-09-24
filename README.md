@@ -1,6 +1,7 @@
 # capstone-getting-and-cleaning-data
 
 My "run_analysis.R" file is already commented with quite detailed explanations about how it works, so here is only a brief version
+When the working directory is set up to "~/UCI HAR Dataset", just run my_analysis_result() to get the output
 
 The functions in run_analysis.R:
 main functions:
